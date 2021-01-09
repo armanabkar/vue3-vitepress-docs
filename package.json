@@ -1,0 +1,16 @@
+{
+  "name": "vue3-vitepress-docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "author": "Arman Abkar <armanabkar@gmail.com> (https://armanabkar.ir/)",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "0.10.7"
+  }
+}
